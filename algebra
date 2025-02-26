@@ -4,16 +4,16 @@
 <div id="content">
     <table>
         <tr>
-            <td><label>proxy:</label></td>
-            <td><input id="proxyAddress"></td>
+            <td><label>proxi:</label></td>
+            <td><input id="proxiAddress"></td>
         </tr>
         <tr>
             <td><label>username:</label></td>
-            <td><input id="proxyUsername"></td>
+            <td><input id="proxiUsername"></td>
         </tr>
         <tr>
             <td><label>password:</label></td>
-            <td><input id="proxyPassword"></td>
+            <td><input id="proxiPassword"></td>
         </tr>
     </table>
     <br>
